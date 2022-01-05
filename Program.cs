@@ -6,7 +6,8 @@ namespace hellow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Wh wh = new Wh();
+            wh.WriteTo("Ati ügyes, hello world");
         }
     }
 }
