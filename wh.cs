@@ -6,8 +6,8 @@ namespace hellow
     {
         public void WriteTo(string text)
         {
-            // helló cica 4
-            Console.WriteLine(text.ToUpper());
+            // helló cica 5
+            Console.WriteLine(text.ToLower());
             // v4 új
         }
     }
