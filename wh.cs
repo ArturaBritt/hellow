@@ -8,6 +8,8 @@ namespace hellow
         {
             // helló cica 44
             Console.WriteLine(text.ToUpper());
+            // helló cica 5
+            Console.WriteLine(text.ToLower());
             // v4 új
         }
     }
