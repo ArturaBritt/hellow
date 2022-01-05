@@ -6,6 +6,7 @@ namespace hellow
     {
         public void WriteTo(string text)
         {
+            // helló cica
             Console.WriteLine(text);
         }
     }
